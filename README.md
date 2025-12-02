@@ -35,7 +35,7 @@ RegisterNumber:212223223004
 ```
 
 # MainActivity.java:
-```
+```java
 package com.example.andriodlifecycle;
 
 import android.os.Bundle;
